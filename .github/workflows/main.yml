@@ -4,25 +4,25 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
+    # Her 12 saatte bir
     - cron: "0 */12 * * *"
 
-  # This command allows us to run the Action automatically from the Actions tab.
+  # Actions sekmesinden manuel olarak çalıştırılmasını sağlar.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Ayrıca, her itişte çalışır.
   push:
     branches:
-    - main
+      - main
 
-# The sequence of runs in this workflow:
+# Bu iş akışındaki çalışma dizisinin sıralaması:
 jobs:
-  # This workflow contains a single job called "build"
+  # Bu iş akışı, "build" adında tek bir işe sahiptir.
   build:
-    # The type of runner that the job will run on
+    # İşin çalıştığı runner tipi
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    # Adımlar, işin bir parçası olarak yürütülecek görev dizisini temsil eder.
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
@@ -30,16 +30,8 @@ jobs:
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
-        
-        - uses: Platane/snk@v3
-  with:
-    github_user_name: KayaErtug  # GitHub kullanıcı adınızı buraya ekleyin
-    
-
-
-
-        
-       
+        with:
+          github_user_name: KayaErtug
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
