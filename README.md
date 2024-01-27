@@ -54,3 +54,5 @@ Hi there ðŸ‘‹, my name is Ertug Kaya<br>#### I am Full Stack Junior Developer ðŸ
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/KayaErtug)
+
