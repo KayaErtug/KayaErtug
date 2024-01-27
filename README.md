@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KayaErtug.KayaErtug" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=KayaErtug.KayaErtug" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Ertug+Kaya!;Merhaba!+👋;Ben+Ertuğ+Kaya!;&color=FF5733&fontColor=FFFFFF" />
@@ -46,6 +46,11 @@ Hi there 👋, my name is Ertug Kaya<br>#### I am Full Stack Junior Developer �
 ![](https://github-readme-stats.vercel.app/api?username=kayaertug&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kayaertug&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kayaertug&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kayaertug&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
