@@ -1,9 +1,13 @@
 
  
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="GIF Resim"/>
+</p>
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KayaErtug.KayaErtug" alt="Visitor Badge"/>
+</p>
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=KayaErtug.KayaErtug" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Ertug+Kaya!;Merhaba!+👋;Ben+Ertuğ+Kaya!;&color=FF5733&fontColor=FFFFFF" />
